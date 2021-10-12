@@ -1,0 +1,29 @@
+h1 , h2 {
+background-color: orangered;
+text-align: center;
+}
+
+p{
+    color: maroon;
+    font-family:'Times New Roman', Times, serif; /*cccccccccc */
+
+}
+
+.imgecontener{ 
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    
+
+}
+div img{ 
+
+    width: 300px;
+    height: 300px;
+    
+}
+
+body{
+margin: 2% ; 
+
+}

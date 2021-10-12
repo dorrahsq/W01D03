@@ -23,7 +23,7 @@ li {
 .headerul {
   padding: 3px;
   margin: 0px;
-  border: 12px solid orangered;
+  border: 16px solid orangered;
   background-color: orangered;
 }
 
@@ -39,8 +39,6 @@ a {
 .divcontener {
   display: flex;
   justify-content: center;
-
-  
 }
 
 /*#img1,
@@ -70,10 +68,10 @@ p {
   padding: 9px;
 }
 
-.ul2contener{
-    text-align: center;
+.ul2contener {
+  text-align: center;
 }
 
 span {
-    color:cornflowerblue;
+  color: cornflowerblue;
 }

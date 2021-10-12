@@ -19,13 +19,11 @@ li {
 }
 ul {
   background-color: orangered;
-  
 }
 header ul {
   padding: 3px;
   margin: 0px;
   border: 10px solid orangered;
-
 }
 
 a:hover {
@@ -73,9 +71,9 @@ div button {
 
 .item {
   border: 2px solid gray;
-
 }
 
-h2 , p {
-    padding: 9px;
+h2,
+p {
+  padding: 9px;
 }

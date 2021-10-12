@@ -20,7 +20,7 @@ li {
   margin-right: 15px;
 }
 
-header ul {
+.headerul {
   padding: 3px;
   margin: 0px;
   border: 12px solid orangered;
@@ -40,7 +40,7 @@ a {
   display: flex;
   justify-content: center;
 
-  border-color: black; /**/
+  
 }
 
 /*#img1,
@@ -68,4 +68,12 @@ button {
 h2,
 p {
   padding: 9px;
+}
+
+.ul2contener{
+    text-align: center;
+}
+
+span {
+    color:cornflowerblue;
 }
